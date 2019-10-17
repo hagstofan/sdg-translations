@@ -91,13 +91,13 @@ jobs:
           at: /tmp/build
       - run:
         name: "env variables for github: EMAIL"
-	command: export EMAIL=arnist@hagstofa.is
+        command: export EMAIL=arnist@hagstofa.is
       - run:
         name: "env variables for github: GIT_AUTHOR_NAME"
-	command: export GIT_AUTHOR_NAME='Árni St. Sigurðsson'
+        command: export GIT_AUTHOR_NAME='Árni St. Sigurðsson'
       - run:
         name: "env variables for github: GIT_COMMITTER_NAME"
-	command: export GIT_COMMITTER_NAME='Árni St. Sigurðsson'
+        command: export GIT_COMMITTER_NAME='Árni St. Sigurðsson'
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/deploy.circleci.sh
