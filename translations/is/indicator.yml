@@ -30,10 +30,9 @@ table: Tafla
 map: Kort
 loading_map: Hleð korti
 national_metadata: Innlend lýsigögn
-national_metadata_blurb: Þessi tafla sýnir lýsigögn fyrir þann mælikvarða sem er fáanlegur úr %country_adjective
-  tölfræði og er líkastur alþjóðlegum heimsmarkmiðamælikvarða Sameinuðu Þjóðanna. Vinsamlegast takið eftir að jafnvel
-  þótt alþjóðlegur heimsmarkmiðamælikvarði Sameinuðu Þjóðanna sé aðgengilegur úr %country_adjective tölfræði,
-  ber að hafa þessa töflu til hliðsjónar fyrir upplýsingar um innlenda aðfarðarfræði og önnur %country_name lýsigögn
+national_metadata_blurb: Þessi tafla sýnir lýsigögn fyrir þann mælikvarða sem er fáanlegur úr íslenskum gögnum og er líkastur alþjóðlegum heimsmarkmiðamælikvarða Sameinuðu Þjóðanna. Vinsamlegast takið eftir að jafnvel
+  þótt alþjóðlegur heimsmarkmiðamælikvarði Sameinuðu Þjóðanna sé aðgengilegur úr íslenskum gögnum,
+  ber að hafa þessa töflu til hliðsjónar fyrir upplýsingar um innlenda aðfarðarfræði og önnur íslensk lýsigögn
 global_metadata: Alþjóðleg lýsigögn
 global_metadata_blurb: Þessi tafla sýnir lýsigögn fyrir heimsmarkmiðamælikvarða eins og þeir eru skilgreindir af tölfræðistofnun Sameinuðu Þjóðanna.
   <a href="https://unstats.un.org/sdgs/metadata/"> Fullbúin aljþjóðleg lýsiskjöl</a> eru fáanleg frá tölfræðistofnun Sameinuðu Þjóðanna
