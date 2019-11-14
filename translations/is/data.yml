@@ -52,3 +52,7 @@ Q - Human health and social work activities: Q - Heilbrigðis og félagsþjónus
 R - Arts, entertainment and recreation: R - Menningar, íþrjótta og tómstundastarfsemi
 S - Other services activities: S - Félagasamtök og önnur þjónustustarfsemi
 U - Activities of extraterritorial organisations and bodies: U - Starfsemi stofnana og samtaka með úrlendisrétt
+Type: Tegund
+Forest < 5m: Skógur < 5m
+Forest > 5m: Skógur > 5m 
+Total Forest cover: Heildar skógþekja
