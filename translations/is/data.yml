@@ -56,9 +56,12 @@ Type: Tegund
 Forest < 5m: Skógur < 5m
 Forest > 5m: Skógur > 5m 
 Total Forest cover: Heildar skógþekja
-Sub-indicator: Hlutvísir
+Sub-indicator.: Hlutvísir
 Above-ground biomass stock in forest [ton/ha]: Skógarlífmassi ofanjarðar [ton/ha]
 Forest area annual net change (%): Árleg breyting í skógþekju (%)
 Forest area under independantely verified forest management certification schemes [1000 ha]: Skógar í vottaðri og sjálfbærri skógarstjórnun [1000 ha]
 Proportion of forest area located within legally established protected areas [%]: Hlutfall skóglendis innan friðaðra svæða [%]
 Proportion of forest area under long-term forest management plan [%]: Hlutfall skóglendis í langtíma skógstýringu [%]
+Revenue: Tekjur
+Other revenue: Aðrar tekjur
+Tax revenue: Skattekjur
