@@ -1,48 +1,4 @@
 ﻿key,en,ar
-status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
-status:not_applicable,Not applicable,لايمكن تطبيقه
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Reported online,اعلن على الانترنت
-status:reporting_status,Reporting Status,وضع الاعلان
-status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
-status:status_by_goal,Status by goal,الحالة حسب الهدف
-indicator:chart,Chart,مخطط
-indicator:clear_all,Clear all,ازالة الكل
-indicator:clear_selections,Clear selections,إزالة المحدد
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
-indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
-indicator:download_chart_image,Download Chart Image,تحميل الرسم البياني الصورة
-indicator:download_chart_image_title,Download chart as image,تحميل الرسم البياني كصورة
-indicator:download_csv,Download CSV,تحميل الCSV
-indicator:download_csv_title,Download as CSV,تحميل كCSV
-indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
-indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
-indicator:download_source,Download Source CSV,تحميل مصدر الCSV
-indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
-indicator:download_table,Download Table CSV,تحميل جدول CSV
-indicator:edit,Edit,تغيير
-indicator:edit_data,Edit Data,تغيير البيانات
-indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
-indicator:footnote,Footnote,حاشية
-indicator:geographical_area,Geographical Area,المنطقة الجغرافية
-indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
-indicator:loading_map,Loading map,تحميل الخريطة
-indicator:map,Map,خريطة
-indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_name-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
-indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
-indicator:select_all,Select all,اختيار الكل
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
-indicator:source,Source,مصدر
-indicator:sources,Sources,مصادر
-indicator:sub_categories,Sub-categories,فئات فرعية
-indicator:table,Table,جدول
-indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
-indicator:units_type,Units type,نوع الوحدات
-indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
-indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
 metadata_fields:comments_limitations,Other information,معلومات اخرى
 metadata_fields:computation_calculations,Calculations,عمليات حسابية
 metadata_fields:computation_definitions,Definitions,تعريفات
@@ -121,6 +77,21 @@ metadata_fields:target,Target name,اسم الهدف
 metadata_fields:target_id,Target number,رقم الهدف
 metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
 metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
+post:posts_by_category,Posts by Category,المنشورات حسب الفئة
+post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
+status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
+status:not_applicable,Not applicable,لايمكن تطبيقه
+status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reported_online,Reported online,اعلن على الانترنت
+status:reporting_status,Reporting Status,وضع الاعلان
+status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
+status:status_by_goal,Status by goal,الحالة حسب الهدف
+search:found_in,found in,موجود في
+search:indicator_search,Indicator search,بحث المؤشر
+search:keywords,Keywords,الكلمات الدالة
+search:no_results,No results,لا يوجد نتائج
+search:search,Search,بحث
+search:search_results_for,Search results for,نتائج البحث عن
 header:alpha,Alpha,ألفا
 header:default_contrast,Default contrast,النقيض الافتراضي
 header:disable_high_contrast,Disable high contrast,تعطيل التباين العالي
@@ -129,6 +100,14 @@ header:enable_high_contrast,Enable high contrast,تمكين التباين ال�
 header:high_contrast,High contrast,تباين عالي
 header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
 header:tag_line,17 Goals to Transform our World,17 اهداف لتحويل عالمنا
+menu:about,About,عن
+menu:contact_us,Contact us,اتصل بنا
+menu:cookies,Cookies,ملفات تعريف الارتباط
+menu:faq,FAQ,أسئلة شائعة
+menu:guidance,Guidance,توجيه
+menu:menu,Menu,قائمة
+menu:publications,Publications,منشورات
+menu:reporting_status,Reporting Status,حالة التقارير
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",نسبة السكان الذين يعيشون دون خط الفقر الوطني، بحسب الجنس والعمر 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",نسبة الرجال والنساء والأطفال من جميع الاعمار الذين يعانون الفقر بجميع ابعاده وفقا للتعريفات الوطنية
@@ -374,20 +353,8 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,مجموع الدعم الدولي (المساعدة الإنمائية الرسمية بالإضافة إلى التدفقات الرسمية الأخرى) إلى الهياكل الأساسية
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,نسـبة القيمة المضافة للصناعة التكنولوجية المتوسـطة والمتقدمة من مجموع القيمة المضافة
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology",نسبة السكان المشمولين بشبكة الهاتف المحمول، بحسب التكنولوجيا
-menu:about,About,عن
-menu:contact_us,Contact us,اتصل بنا
-menu:cookies,Cookies,ملفات تعريف الارتباط
-menu:faq,FAQ,أسئلة شائعة
-menu:guidance,Guidance,توجيه
-menu:menu,Menu,قائمة
-menu:publications,Publications,منشورات
-menu:reporting_status,Reporting Status,حالة التقارير
-search:found_in,found in,موجود في
-search:indicator_search,Indicator search,بحث المؤشر
-search:keywords,Keywords,الكلمات الدالة
-search:no_results,No results,لا يوجد نتائج
-search:search,Search,بحث
-search:search_results_for,Search results for,نتائج البحث عن
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
 general:facebook,Facebook,فيسبوك
 general:goal,Goal,هدف
 general:goals,Goals,اهداف
@@ -400,44 +367,6 @@ general:sdg,Sustainable Development Goals,اهداف التنمية المستد
 general:target,Target,استهداف
 general:targets,Targets,أهداف
 general:twitter,Twitter,تويتر
-post:posts_by_category,Posts by Category,المنشورات حسب الفئة
-post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
-global_goals:1-short,No poverty,لا فقر
-global_goals:1-title,End poverty in all its forms everywhere,القضاء على الفقر بجميع أشكاله في كل مكان
-global_goals:10-short,Reduced inequalities,انخفاض عدم المساواة
-global_goals:10-title,Reduce inequality within and among countries,انخفاض عدم المساواة داخل وبين البلدان
-global_goals:11-short,Sustainable cities & communities,المدن والمجتمعات المستدامة
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable",جعل المدن والمستوطنات البشرية شاملة وآمنة ومرنة ومستدامة
-global_goals:12-short,Responsible consumption and production,الاستهلاك والإنتاج المسؤول
-global_goals:12-title,Ensure sustainable consumption and production patterns,ضمان أنماط الاستهلاك والإنتاج المستدامة
-global_goals:13-short,Climate action,العمل المناخي
-global_goals:13-title,Take urgent action to combat climate change and its impacts,اتخاذ إجراءات عاجلة لمكافحة تغير المناخ وآثاره
-global_goals:14-short,Life below water,الحياة تحت الماء
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",حفظ المحيطات والبحار والموارد البحرية واستخدامها على نحو مستدام لتحقيق التنمية المستدامة
-global_goals:15-short,Life on land,الحياة على الأرض
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",حماية وترميم وتشجيع الاستخدام المستدام للنظم الإيكولوجية الأرضية، وإدارة الغابات على نحو مستدام، وكافحة التصحر، ووقف تدهور الأراضي وعكس مساره ووقف فقدان التنوع البيولوجي
-global_goals:16-short,Peace and justice - strong institutions,السلام والعدالة - مؤسسات قوية
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",تعزيز المجتمعات السلمية والشاملة لتحقيق التنمية المستدامة، وتوفير إمكانية الوصول إالى العدالة للجميع وبناء مؤسسات فعالة وخاضعة للمساءلة وشاملة للجميع على جميع المستويات
-global_goals:17-short,Partnerships for the goals,الشراكات من أجل الأهداف
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,تعزيز وسائل التنفيذ وتنشيط الشراكة العالمية من أجل التنمية المستدامة
-global_goals:2-short,Zero hunger,القضاء على الجوع
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",القضاء على الجوع وتحقيق الأمن الغذائي وتحسين التغذية وتعزيز الزراعة المستدامة 
-global_goals:3-short,Good health and well-being,صحة جيدة ورفاه
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,ضمان حياة صحية وتعزيز الرفاهية للجميع في جميع الأعمار
-global_goals:4-short,Quality education,تعليم ذو جودة
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,ضمان التعليم الجيد الشامل والمنصف وتعزيز فرص التعلم مدى الحياة للجميع
-global_goals:5-short,Gender equality,المساواة بين الجنسين
-global_goals:5-title,Achieve gender equality and empower all women and girls,تحقيق المساواة بين الجنسين وتمكين جميع النساء والفتيات 
-global_goals:6-short,Clean water and sanitation,المياه النظيفة والصرف الصحي
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,ضمان التوافر والإدارة المستدامة للمياه والصرف الصحي للجميع
-global_goals:7-short,Affordable and clean energy,الطاقة النظيفة والمتوفرة بأسعار معقولة 
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all",ضمان الوصول إالى الطاقة الحديثة والموثوقة والمستدامة والحديثة للجميع
-global_goals:8-short,Decent jobs and economic growth,وظائف لائقة والنمو الاقتصادي
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",تعزيز النمو الاقتصادي المستدام والشامل والعمالة الكاملة والمنتجة والعمل اللائق للجميع 
-global_goals:9-short,"Industry, innovation and infrastructure",الصناعة والابتكار والهياكل الأساسية 
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",بناء هياكل أساسية مرنة، وتعزيز التصنيع الشامل والمستدام وتعزيز الابتكار
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",القضاء على الفقر المدقع للناس أجمعين أينما كانوا بحلول عام 2030، وهو يُقاس حالياً بعدد الأشخاص الذين يعيشون بأقل من 1.25 دولار في اليوم
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",تخفيض نسـبة الرجال والنساء والأطفال من جميع الأعمار الـذين يعـانون الفقر بجميع أبعاده وفقــاً للتعـاريف الوطنية بمقــدار النصف على الأقل، بحلول عام 2030
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",تنفيـذ نظم وطنية ملائمـة للحمايـة الاجتمـاعية وتـدابير للجميع ووضع حدود دنيا لها، وبحلول عام 2030، تحقيق تغطية واسعة للفقراء والضعفاء
@@ -607,3 +536,74 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",تيسير إنشاء هياكل أساسية مستدامة وقادرة على الصمود في البلدان النامية، بتحسـين الدعم المالي والتكنولوجي والتقني المقدم للبلدان الأفريقية، وأقل البلدان نمواً، والبلدان النامية غير الساحلية، والدول الجزرية الصغيرة النامية
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",دعم أنشـطـة التطوير والبحـث والابتكـار في التكنولوجيـا المحلية في البلدان النامية، بوسـائل منها كفالة وجود بيئة مؤاتية من حيث السـياسـات للتنويع الصـناعي وإضـافة قيمة للسـلع الأسـاسـية بين أمور أخرى
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,تحقيق زيادة كبيرة في فرص الحصول على تكنولوجيا المعلومات والاتصــالات، والســعي إلى توفير فرص الوصــول الشــامل والميسـور إلى شـبكة الإنترنـت في أقـل البلـدان نموا، بحلول عـام 2020
+indicator:chart,Chart,مخطط
+indicator:clear_all,Clear all,ازالة الكل
+indicator:clear_selections,Clear selections,إزالة المحدد
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
+indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
+indicator:download_chart_image,Download Chart Image,تحميل الرسم البياني الصورة
+indicator:download_chart_image_title,Download chart as image,تحميل الرسم البياني كصورة
+indicator:download_csv,Download CSV,تحميل الCSV
+indicator:download_csv_title,Download as CSV,تحميل كCSV
+indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
+indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
+indicator:download_source,Download Source CSV,تحميل مصدر الCSV
+indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
+indicator:download_table,Download Table CSV,تحميل جدول CSV
+indicator:edit,Edit,تغيير
+indicator:edit_data,Edit Data,تغيير البيانات
+indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
+indicator:footnote,Footnote,حاشية
+indicator:geographical_area,Geographical Area,المنطقة الجغرافية
+indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
+indicator:loading_map,Loading map,تحميل الخريطة
+indicator:map,Map,خريطة
+indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_name-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
+indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
+indicator:select_all,Select all,اختيار الكل
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
+indicator:source,Source,مصدر
+indicator:sources,Sources,مصادر
+indicator:sub_categories,Sub-categories,فئات فرعية
+indicator:table,Table,جدول
+indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
+indicator:units_type,Units type,نوع الوحدات
+indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
+indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
+global_goals:1-short,No poverty,لا فقر
+global_goals:1-title,End poverty in all its forms everywhere,القضاء على الفقر بجميع أشكاله في كل مكان
+global_goals:10-short,Reduced inequalities,انخفاض عدم المساواة
+global_goals:10-title,Reduce inequality within and among countries,انخفاض عدم المساواة داخل وبين البلدان
+global_goals:11-short,Sustainable cities & communities,المدن والمجتمعات المستدامة
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable",جعل المدن والمستوطنات البشرية شاملة وآمنة ومرنة ومستدامة
+global_goals:12-short,Responsible consumption and production,الاستهلاك والإنتاج المسؤول
+global_goals:12-title,Ensure sustainable consumption and production patterns,ضمان أنماط الاستهلاك والإنتاج المستدامة
+global_goals:13-short,Climate action,العمل المناخي
+global_goals:13-title,Take urgent action to combat climate change and its impacts,اتخاذ إجراءات عاجلة لمكافحة تغير المناخ وآثاره
+global_goals:14-short,Life below water,الحياة تحت الماء
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",حفظ المحيطات والبحار والموارد البحرية واستخدامها على نحو مستدام لتحقيق التنمية المستدامة
+global_goals:15-short,Life on land,الحياة على الأرض
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",حماية وترميم وتشجيع الاستخدام المستدام للنظم الإيكولوجية الأرضية، وإدارة الغابات على نحو مستدام، وكافحة التصحر، ووقف تدهور الأراضي وعكس مساره ووقف فقدان التنوع البيولوجي
+global_goals:16-short,Peace and justice - strong institutions,السلام والعدالة - مؤسسات قوية
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",تعزيز المجتمعات السلمية والشاملة لتحقيق التنمية المستدامة، وتوفير إمكانية الوصول إالى العدالة للجميع وبناء مؤسسات فعالة وخاضعة للمساءلة وشاملة للجميع على جميع المستويات
+global_goals:17-short,Partnerships for the goals,الشراكات من أجل الأهداف
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,تعزيز وسائل التنفيذ وتنشيط الشراكة العالمية من أجل التنمية المستدامة
+global_goals:2-short,Zero hunger,القضاء على الجوع
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",القضاء على الجوع وتحقيق الأمن الغذائي وتحسين التغذية وتعزيز الزراعة المستدامة 
+global_goals:3-short,Good health and well-being,صحة جيدة ورفاه
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,ضمان حياة صحية وتعزيز الرفاهية للجميع في جميع الأعمار
+global_goals:4-short,Quality education,تعليم ذو جودة
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,ضمان التعليم الجيد الشامل والمنصف وتعزيز فرص التعلم مدى الحياة للجميع
+global_goals:5-short,Gender equality,المساواة بين الجنسين
+global_goals:5-title,Achieve gender equality and empower all women and girls,تحقيق المساواة بين الجنسين وتمكين جميع النساء والفتيات 
+global_goals:6-short,Clean water and sanitation,المياه النظيفة والصرف الصحي
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,ضمان التوافر والإدارة المستدامة للمياه والصرف الصحي للجميع
+global_goals:7-short,Affordable and clean energy,الطاقة النظيفة والمتوفرة بأسعار معقولة 
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all",ضمان الوصول إالى الطاقة الحديثة والموثوقة والمستدامة والحديثة للجميع
+global_goals:8-short,Decent jobs and economic growth,وظائف لائقة والنمو الاقتصادي
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",تعزيز النمو الاقتصادي المستدام والشامل والعمالة الكاملة والمنتجة والعمل اللائق للجميع 
+global_goals:9-short,"Industry, innovation and infrastructure",الصناعة والابتكار والهياكل الأساسية 
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",بناء هياكل أساسية مرنة، وتعزيز التصنيع الشامل والمستدام وتعزيز الابتكار
