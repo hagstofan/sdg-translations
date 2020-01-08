@@ -1,6 +1,12 @@
 ﻿key,en,es
-post:posts_by_category,Posts by Category,Publicaciones por categoría
-post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
+header:alpha,Alpha,
+header:default_contrast,Default contrast,
+header:disable_high_contrast,Disable high contrast,
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",
+header:enable_high_contrast,Enable high contrast,
+header:high_contrast,High contrast,
+header:skip_link,Skip to main content,
+header:tag_line,17 Goals to Transform our World,
 general:facebook,Facebook,
 general:goal,Goal,
 general:goals,Goals,
@@ -13,130 +19,8 @@ general:sdg,Sustainable Development Goals,
 general:target,Target,
 general:targets,Targets,
 general:twitter,Twitter,
-menu:about,About,Acerca de
-menu:contact_us,Contact us,Contáctenos
-menu:cookies,Cookies,Galletas
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Dirección
-menu:menu,Menu,Menú
-menu:publications,Publications,Publicaciones
-menu:reporting_status,Reporting Status,Estado de informes
-global_goals:1---short,No poverty,
-global_goals:10---short,Reduced inequalities,
-global_goals:11---short,Sustainable cities & communities,
-global_goals:12---short,Responsible consumption and production,
-global_goals:13---short,Climate action,
-global_goals:14---short,Life below water,
-global_goals:15---short,Life on land,
-global_goals:16---short,Peace and justice - strong institutions,
-global_goals:17---short,Partnerships for the goals,
-global_goals:2---short,Zero hunger,
-global_goals:3---short,Good health and well-being,
-global_goals:4---short,Quality education,
-global_goals:5---short,Gender equality,
-global_goals:6---short,Clean water and sanitation,
-global_goals:7---short,Affordable and clean energy,
-global_goals:8---short,Decent jobs and economic growth,
-global_goals:9---short,"Industry, innovation and infrastructure",
-metadata_fields:comments_limitations,Other information,Otra información
-metadata_fields:computation_calculations,Calculations,Cálculos
-metadata_fields:computation_definitions,Definitions,Definiciones
-metadata_fields:computation_units,Unit of measurement,Unidad de medida
-metadata_fields:goal_meta_link,Link to UN metadata,Enlace a los metadatos de la ONU
-metadata_fields:indicator,Indicator number,Número del indicador
-metadata_fields:indicator_definition,Global indicator description,Descripción del indicador global
-metadata_fields:indicator_name,Indicator name,Nombre del indicador
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Orden de visualización del indicador (dentro de la página de Goal)
-metadata_fields:national_data_update_url,Data last updated,Datos actualizados por última vez
-metadata_fields:national_geographical_coverage,Geographical coverage,Cobertura geográfica
-metadata_fields:national_indicator_available,Indicator available,Indicador disponible
-metadata_fields:national_indicator_description,Indicator description,Descripción del indicador
-metadata_fields:national_metadata_update_url,Metadata last updated,Metadatos actualizados por última vez
-metadata_fields:source_contact_1,Contact details,Detalles de contacto
-metadata_fields:source_contact_2,Contact details,Detalles de contacto
-metadata_fields:source_contact_3,Contact details,Detalles de contacto
-metadata_fields:source_contact_4,Contact details,Detalles de contacto
-metadata_fields:source_contact_5,Contact details,Detalles de contacto
-metadata_fields:source_contact_6,Contact details,Detalles de contacto
-metadata_fields:source_earliest_available_1,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_2,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_3,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_4,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_5,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_6,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Cobertura geográfica
-metadata_fields:source_next_release_1,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_2,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_3,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_4,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_5,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_6,Next release,Siguiente lanzamiento
-metadata_fields:source_organisation_1,Organisation,Organización
-metadata_fields:source_organisation_2,Organisation,Organización
-metadata_fields:source_organisation_3,Organisation,Organización
-metadata_fields:source_organisation_4,Organisation,Organización
-metadata_fields:source_organisation_5,Organisation,Organización
-metadata_fields:source_organisation_6,Organisation,Organización
-metadata_fields:source_other_info_1,Other information,Otra información
-metadata_fields:source_other_info_2,Other information,Otra información
-metadata_fields:source_other_info_3,Other information,Otra información
-metadata_fields:source_other_info_4,Other information,Otra información
-metadata_fields:source_other_info_5,Other information,Otra información
-metadata_fields:source_other_info_6,Other information,Otra información
-metadata_fields:source_periodicity_1,Periodicity,Periodicidad
-metadata_fields:source_periodicity_2,Periodicity,Periodicidad
-metadata_fields:source_periodicity_3,Periodicity,Periodicidad
-metadata_fields:source_periodicity_4,Periodicity,Periodicidad
-metadata_fields:source_periodicity_5,Periodicity,Periodicidad
-metadata_fields:source_periodicity_6,Periodicity,Periodicidad
-metadata_fields:source_release_date_1,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_2,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_3,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_4,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_5,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_6,Release date,Fecha de lanzamiento
-metadata_fields:source_statistical_classification_1,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_2,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_3,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_4,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_5,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_6,Statistical classification,Clasificación estadística
-metadata_fields:source_url_1,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_2,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_3,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_4,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_5,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_6,Link to data source,Enlace a la fuente de datos
-metadata_fields:target,Target name,Nombre de destino
-metadata_fields:target_id,Target number,Número objetivo
-metadata_fields:un_custodian_agency,UN custodian agency,Agencia de custodia de la ONU
-metadata_fields:un_designated_tier,UN designated tier,Nivel designado por la ONU
-status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
-status:not_applicable,Not applicable,No aplicable
-status:overall_reporting_status,Overall Reporting Status,Estado general de informes
-status:reported_online,Reported online,Reportado en línea
-status:reporting_status,Reporting Status,Estado de informes
-status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
-status:status_by_goal,Status by goal,Estados por objetivos
-search:found_in,found in,encontrado en
-search:indicator_search,Indicator search,Búsqueda de indicador
-search:keywords,Keywords,Palabras clave
-search:no_results,No results,No hay resultados
-search:search,Search,Buscar
-search:search_results_for,Search results for,Resultados de búsqueda para
-header:alpha,Alpha,
-header:default_contrast,Default contrast,
-header:disable_high_contrast,Disable high contrast,
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",
-header:enable_high_contrast,Enable high contrast,
-header:high_contrast,High contrast,
-header:skip_link,Skip to main content,
-header:tag_line,17 Goals to Transform our World,
+post:posts_by_category,Posts by Category,
+post:view_all_in_category,View all posts in the %category_name category,
 frontpage:heading,%name data for Sustainable Development Goal indicators,
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",
 indicator:chart,Chart,
@@ -176,3 +60,119 @@ indicator:unit_of_measurement,Unit of Measurement,
 indicator:units_type,Units type,
 indicator:variable_hint,Available when '%field' is selected,
 indicator:view_indicator_list,View this goal's indicator list,
+metadata_fields:comments_limitations,Other information,
+metadata_fields:computation_calculations,Calculations,
+metadata_fields:computation_definitions,Definitions,
+metadata_fields:computation_units,Unit of measurement,
+metadata_fields:goal_meta_link,Link to UN metadata,
+metadata_fields:indicator,Indicator number,
+metadata_fields:indicator_definition,Global indicator description,
+metadata_fields:indicator_name,Indicator name,
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),
+metadata_fields:national_data_update_url,Data last updated,
+metadata_fields:national_geographical_coverage,Geographical coverage,
+metadata_fields:national_indicator_available,Indicator available,
+metadata_fields:national_indicator_description,Indicator description,
+metadata_fields:national_metadata_update_url,Metadata last updated,
+metadata_fields:source_contact_1,Contact details,
+metadata_fields:source_contact_2,Contact details,
+metadata_fields:source_contact_3,Contact details,
+metadata_fields:source_contact_4,Contact details,
+metadata_fields:source_contact_5,Contact details,
+metadata_fields:source_contact_6,Contact details,
+metadata_fields:source_earliest_available_1,Earliest available data,
+metadata_fields:source_earliest_available_2,Earliest available data,
+metadata_fields:source_earliest_available_3,Earliest available data,
+metadata_fields:source_earliest_available_4,Earliest available data,
+metadata_fields:source_earliest_available_5,Earliest available data,
+metadata_fields:source_earliest_available_6,Earliest available data,
+metadata_fields:source_geographical_coverage_1,Geographical coverage,
+metadata_fields:source_geographical_coverage_2,Geographical coverage,
+metadata_fields:source_geographical_coverage_3,Geographical coverage,
+metadata_fields:source_geographical_coverage_4,Geographical coverage,
+metadata_fields:source_geographical_coverage_5,Geographical coverage,
+metadata_fields:source_geographical_coverage_6,Geographical coverage,
+metadata_fields:source_next_release_1,Next release,
+metadata_fields:source_next_release_2,Next release,
+metadata_fields:source_next_release_3,Next release,
+metadata_fields:source_next_release_4,Next release,
+metadata_fields:source_next_release_5,Next release,
+metadata_fields:source_next_release_6,Next release,
+metadata_fields:source_organisation_1,Organisation,
+metadata_fields:source_organisation_2,Organisation,
+metadata_fields:source_organisation_3,Organisation,
+metadata_fields:source_organisation_4,Organisation,
+metadata_fields:source_organisation_5,Organisation,
+metadata_fields:source_organisation_6,Organisation,
+metadata_fields:source_other_info_1,Other information,
+metadata_fields:source_other_info_2,Other information,
+metadata_fields:source_other_info_3,Other information,
+metadata_fields:source_other_info_4,Other information,
+metadata_fields:source_other_info_5,Other information,
+metadata_fields:source_other_info_6,Other information,
+metadata_fields:source_periodicity_1,Periodicity,
+metadata_fields:source_periodicity_2,Periodicity,
+metadata_fields:source_periodicity_3,Periodicity,
+metadata_fields:source_periodicity_4,Periodicity,
+metadata_fields:source_periodicity_5,Periodicity,
+metadata_fields:source_periodicity_6,Periodicity,
+metadata_fields:source_release_date_1,Release date,
+metadata_fields:source_release_date_2,Release date,
+metadata_fields:source_release_date_3,Release date,
+metadata_fields:source_release_date_4,Release date,
+metadata_fields:source_release_date_5,Release date,
+metadata_fields:source_release_date_6,Release date,
+metadata_fields:source_statistical_classification_1,Statistical classification,
+metadata_fields:source_statistical_classification_2,Statistical classification,
+metadata_fields:source_statistical_classification_3,Statistical classification,
+metadata_fields:source_statistical_classification_4,Statistical classification,
+metadata_fields:source_statistical_classification_5,Statistical classification,
+metadata_fields:source_statistical_classification_6,Statistical classification,
+metadata_fields:source_url_1,Link to data source,
+metadata_fields:source_url_2,Link to data source,
+metadata_fields:source_url_3,Link to data source,
+metadata_fields:source_url_4,Link to data source,
+metadata_fields:source_url_5,Link to data source,
+metadata_fields:source_url_6,Link to data source,
+metadata_fields:target,Target name,
+metadata_fields:target_id,Target number,
+metadata_fields:un_custodian_agency,UN custodian agency,
+metadata_fields:un_designated_tier,UN designated tier,
+status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
+status:not_applicable,Not applicable,No aplicable
+status:overall_reporting_status,Overall Reporting Status,Estado general de informes
+status:reported_online,Reported online,Reportado en línea
+status:reporting_status,Reporting Status,Estado de informes
+status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
+status:status_by_goal,Status by goal,Estados por objetivos
+global_goals:1---short,No poverty,
+global_goals:10---short,Reduced inequalities,
+global_goals:11---short,Sustainable cities & communities,
+global_goals:12---short,Responsible consumption and production,
+global_goals:13---short,Climate action,
+global_goals:14---short,Life below water,
+global_goals:15---short,Life on land,
+global_goals:16---short,Peace and justice - strong institutions,
+global_goals:17---short,Partnerships for the goals,
+global_goals:2---short,Zero hunger,
+global_goals:3---short,Good health and well-being,
+global_goals:4---short,Quality education,
+global_goals:5---short,Gender equality,
+global_goals:6---short,Clean water and sanitation,
+global_goals:7---short,Affordable and clean energy,
+global_goals:8---short,Decent jobs and economic growth,
+global_goals:9---short,"Industry, innovation and infrastructure",
+search:found_in,found in,encontrado en
+search:indicator_search,Indicator search,Búsqueda de indicador
+search:keywords,Keywords,Palabras clave
+search:no_results,No results,No hay resultados
+search:search,Search,Buscar
+search:search_results_for,Search results for,Resultados de búsqueda para
+menu:about,About,
+menu:contact_us,Contact us,
+menu:cookies,Cookies,
+menu:faq,FAQ,
+menu:guidance,Guidance,
+menu:menu,Menu,
+menu:publications,Publications,
+menu:reporting_status,Reporting Status,
