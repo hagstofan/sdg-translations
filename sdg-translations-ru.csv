@@ -1,13 +1,4 @@
 ﻿key,en,ru
-status:exploring_data_sources,Exploring data sources,В процессе разработки
-status:not_applicable,Not applicable,Непригодный
-status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
-status:reported_online,Reported online,Опубликован
-status:reporting_status,Reporting Status,Статус отчётности
-status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
-status:status_by_goal,Status by goal,Статус по цели
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
 indicator:chart,Chart,График
 indicator:clear_all,Clear all,Очистить всё
 indicator:clear_selections,Clear selections,Очистить выделенное
@@ -45,6 +36,14 @@ indicator:unit_of_measurement,Unit of Measurement,Единица измерен�
 indicator:units_type,Units type,Вид единиц
 indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
 indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
+header:alpha,Alpha,Альфа
+header:default_contrast,Default contrast,стандартный контраст
+header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
+header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
+header:high_contrast,High contrast,высокий контраст
+header:skip_link,Skip to main content,Перейти к главному содержанию
+header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
 search:found_in,found in,найдено в
 search:indicator_search,Indicator search,Поиск показателя
 search:keywords,Keywords,Ключевые слова
@@ -129,6 +128,69 @@ metadata_fields:target,Target name,Название задачи
 metadata_fields:target_id,Target number,Номер задачи
 metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
 metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
+menu:about,About,О нас
+menu:contact_us,Contact us,Свяжитесь с нами
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,Часто задаваемые вопросы
+menu:guidance,Guidance,Руководство
+menu:menu,Menu,Меню
+menu:publications,Publications,Публикации
+menu:reporting_status,Reporting Status,Состояние отчётности
+status:exploring_data_sources,Exploring data sources,В процессе разработки
+status:not_applicable,Not applicable,Непригодный
+status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
+status:reported_online,Reported online,Опубликован
+status:reporting_status,Reporting Status,Статус отчётности
+status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
+status:status_by_goal,Status by goal,Статус по цели
+global_goals:1---short,No poverty,
+global_goals:1---title,End poverty in all its forms everywhere,
+global_goals:10---short,Reduced inequalities,
+global_goals:10---title,Reduce inequality within and among countries,
+global_goals:11---short,Sustainable cities & communities,
+global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable",
+global_goals:12---short,Responsible consumption and production,
+global_goals:12---title,Ensure sustainable consumption and production patterns,
+global_goals:13---short,Climate action,
+global_goals:13---title,Take urgent action to combat climate change and its impacts,
+global_goals:14---short,Life below water,
+global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+global_goals:15---short,Life on land,
+global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+global_goals:16---short,Peace and justice - strong institutions,
+global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+global_goals:17---short,Partnerships for the goals,
+global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,
+global_goals:2---short,Zero hunger,
+global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+global_goals:3---short,Good health and well-being,
+global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,
+global_goals:4---short,Quality education,
+global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,
+global_goals:5---short,Gender equality,
+global_goals:5---title,Achieve gender equality and empower all women and girls,
+global_goals:6---short,Clean water and sanitation,
+global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,
+global_goals:7---short,Affordable and clean energy,
+global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all",
+global_goals:8---short,Decent jobs and economic growth,
+global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+global_goals:9---short,"Industry, innovation and infrastructure",
+global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+general:facebook,Facebook,Facebook
+general:goal,Goal,Цель
+general:goals,Goals,Цели
+general:home,Home,Главная
+general:indicator,Indicator,Показатель
+general:indicators,Indicators,Показатели
+general:loading,Loading search results,Загрузка результатов поиска
+general:opens_new_window,opens in a new window,открывается в новой вкладке
+general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
+general:target,Target,Задача
+general:targets,Targets,Задачи
+general:twitter,Twitter,Твиттеру
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
 чертой бедности, в разбивке по полу, возрасту,
 статусу занятости и месту проживания (городское/сельское)
@@ -996,16 +1058,6 @@ global_indicators:9-b-1-title,Proportion of medium and high-tech industry value 
 в общем объеме добавленной стоимости"
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
 сетями, в разбивке по технологиям"
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
-menu:about,About,О нас
-menu:contact_us,Contact us,Свяжитесь с нами
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:guidance,Guidance,Руководство
-menu:menu,Menu,Меню
-menu:publications,Publications,Публикации
-menu:reporting_status,Reporting Status,Состояние отчётности
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","К 2030 году ликвидировать крайнюю нищету
 для всех людей во всем мире (в настоящее время
 крайняя нищета определяется как проживание на
@@ -1966,57 +2018,5 @@ global_targets:9-c-title,Significantly increase access to information and commun
 технологиям и стремиться
 к обеспечению всеобщего и недорогого доступа к
 Интернету в наименее развитых странах к 2020 году"
-header:alpha,Alpha,Альфа
-header:default_contrast,Default contrast,стандартный контраст
-header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
-header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
-header:high_contrast,High contrast,высокий контраст
-header:skip_link,Skip to main content,Перейти к главному содержанию
-header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
-general:facebook,Facebook,Facebook
-general:goal,Goal,Цель
-general:goals,Goals,Цели
-general:home,Home,Главная
-general:indicator,Indicator,Показатель
-general:indicators,Indicators,Показатели
-general:loading,Loading search results,Загрузка результатов поиска
-general:opens_new_window,opens in a new window,открывается в новой вкладке
-general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
-general:target,Target,Задача
-general:targets,Targets,Задачи
-general:twitter,Twitter,Твиттеру
-global_goals:1---short,No poverty,
-global_goals:1---title,End poverty in all its forms everywhere,
-global_goals:10---short,Reduced inequalities,
-global_goals:10---title,Reduce inequality within and among countries,
-global_goals:11---short,Sustainable cities & communities,
-global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable",
-global_goals:12---short,Responsible consumption and production,
-global_goals:12---title,Ensure sustainable consumption and production patterns,
-global_goals:13---short,Climate action,
-global_goals:13---title,Take urgent action to combat climate change and its impacts,
-global_goals:14---short,Life below water,
-global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
-global_goals:15---short,Life on land,
-global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
-global_goals:16---short,Peace and justice - strong institutions,
-global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
-global_goals:17---short,Partnerships for the goals,
-global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,
-global_goals:2---short,Zero hunger,
-global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
-global_goals:3---short,Good health and well-being,
-global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,
-global_goals:4---short,Quality education,
-global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,
-global_goals:5---short,Gender equality,
-global_goals:5---title,Achieve gender equality and empower all women and girls,
-global_goals:6---short,Clean water and sanitation,
-global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,
-global_goals:7---short,Affordable and clean energy,
-global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all",
-global_goals:8---short,Decent jobs and economic growth,
-global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
-global_goals:9---short,"Industry, innovation and infrastructure",
-global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
