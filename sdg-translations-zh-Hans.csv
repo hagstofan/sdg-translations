@@ -1,11 +1,4 @@
 ﻿key,en,zh-Hans
-status:exploring_data_sources,Exploring data sources,探索数据源
-status:not_applicable,Not applicable,不适用
-status:overall_reporting_status,Overall Reporting Status,整体上报状况
-status:reported_online,Reported online,已在线上上报
-status:reporting_status,Reporting Status,上报状况
-status:statistics_in_progress,Statistics in progress,统计在进行中
-status:status_by_goal,Status by goal,目标状况
 menu:about,About,
 menu:contact_us,Contact us,
 menu:cookies,Cookies,
@@ -14,12 +7,18 @@ menu:guidance,Guidance,
 menu:menu,Menu,
 menu:publications,Publications,
 menu:reporting_status,Reporting Status,
-search:found_in,found in,找到
-search:indicator_search,Indicator search,指标搜索
-search:keywords,Keywords,关键字
-search:no_results,No results,无搜索结果
-search:search,Search,搜索
-search:search_results_for,Search results for,搜索结果
+general:facebook,Facebook,
+general:goal,Goal,
+general:goals,Goals,
+general:home,Home,
+general:indicator,Indicator,
+general:indicators,Indicators,
+general:loading,Loading search results,
+general:opens_new_window,opens in a new window,
+general:sdg,Sustainable Development Goals,
+general:target,Target,
+general:targets,Targets,
+general:twitter,Twitter,
 indicator:chart,Chart,
 indicator:clear_all,Clear all,
 indicator:clear_selections,Clear selections,
@@ -57,8 +56,6 @@ indicator:unit_of_measurement,Unit of Measurement,
 indicator:units_type,Units type,
 indicator:variable_hint,Available when '%field' is selected,
 indicator:view_indicator_list,View this goal's indicator list,
-frontpage:heading,%name data for Sustainable Development Goal indicators,
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",
 header:alpha,Alpha,
 header:default_contrast,Default contrast,
 header:disable_high_contrast,Disable high contrast,
@@ -67,96 +64,12 @@ header:enable_high_contrast,Enable high contrast,
 header:high_contrast,High contrast,
 header:skip_link,Skip to main content,
 header:tag_line,17 Goals to Transform our World,
-general:facebook,Facebook,
-general:goal,Goal,
-general:goals,Goals,
-general:home,Home,
-general:indicator,Indicator,
-general:indicators,Indicators,
-general:loading,Loading search results,
-general:opens_new_window,opens in a new window,
-general:sdg,Sustainable Development Goals,
-general:target,Target,
-general:targets,Targets,
-general:twitter,Twitter,
-metadata_fields:comments_limitations,Other information,
-metadata_fields:computation_calculations,Calculations,
-metadata_fields:computation_definitions,Definitions,
-metadata_fields:computation_units,Unit of measurement,
-metadata_fields:goal_meta_link,Link to UN metadata,
-metadata_fields:indicator,Indicator number,
-metadata_fields:indicator_definition,Global indicator description,
-metadata_fields:indicator_name,Indicator name,
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),
-metadata_fields:national_data_update_url,Data last updated,
-metadata_fields:national_geographical_coverage,Geographical coverage,
-metadata_fields:national_indicator_available,Indicator available,
-metadata_fields:national_indicator_description,Indicator description,
-metadata_fields:national_metadata_update_url,Metadata last updated,
-metadata_fields:source_contact_1,Contact details,
-metadata_fields:source_contact_2,Contact details,
-metadata_fields:source_contact_3,Contact details,
-metadata_fields:source_contact_4,Contact details,
-metadata_fields:source_contact_5,Contact details,
-metadata_fields:source_contact_6,Contact details,
-metadata_fields:source_earliest_available_1,Earliest available data,
-metadata_fields:source_earliest_available_2,Earliest available data,
-metadata_fields:source_earliest_available_3,Earliest available data,
-metadata_fields:source_earliest_available_4,Earliest available data,
-metadata_fields:source_earliest_available_5,Earliest available data,
-metadata_fields:source_earliest_available_6,Earliest available data,
-metadata_fields:source_geographical_coverage_1,Geographical coverage,
-metadata_fields:source_geographical_coverage_2,Geographical coverage,
-metadata_fields:source_geographical_coverage_3,Geographical coverage,
-metadata_fields:source_geographical_coverage_4,Geographical coverage,
-metadata_fields:source_geographical_coverage_5,Geographical coverage,
-metadata_fields:source_geographical_coverage_6,Geographical coverage,
-metadata_fields:source_next_release_1,Next release,
-metadata_fields:source_next_release_2,Next release,
-metadata_fields:source_next_release_3,Next release,
-metadata_fields:source_next_release_4,Next release,
-metadata_fields:source_next_release_5,Next release,
-metadata_fields:source_next_release_6,Next release,
-metadata_fields:source_organisation_1,Organisation,
-metadata_fields:source_organisation_2,Organisation,
-metadata_fields:source_organisation_3,Organisation,
-metadata_fields:source_organisation_4,Organisation,
-metadata_fields:source_organisation_5,Organisation,
-metadata_fields:source_organisation_6,Organisation,
-metadata_fields:source_other_info_1,Other information,
-metadata_fields:source_other_info_2,Other information,
-metadata_fields:source_other_info_3,Other information,
-metadata_fields:source_other_info_4,Other information,
-metadata_fields:source_other_info_5,Other information,
-metadata_fields:source_other_info_6,Other information,
-metadata_fields:source_periodicity_1,Periodicity,
-metadata_fields:source_periodicity_2,Periodicity,
-metadata_fields:source_periodicity_3,Periodicity,
-metadata_fields:source_periodicity_4,Periodicity,
-metadata_fields:source_periodicity_5,Periodicity,
-metadata_fields:source_periodicity_6,Periodicity,
-metadata_fields:source_release_date_1,Release date,
-metadata_fields:source_release_date_2,Release date,
-metadata_fields:source_release_date_3,Release date,
-metadata_fields:source_release_date_4,Release date,
-metadata_fields:source_release_date_5,Release date,
-metadata_fields:source_release_date_6,Release date,
-metadata_fields:source_statistical_classification_1,Statistical classification,
-metadata_fields:source_statistical_classification_2,Statistical classification,
-metadata_fields:source_statistical_classification_3,Statistical classification,
-metadata_fields:source_statistical_classification_4,Statistical classification,
-metadata_fields:source_statistical_classification_5,Statistical classification,
-metadata_fields:source_statistical_classification_6,Statistical classification,
-metadata_fields:source_url_1,Link to data source,
-metadata_fields:source_url_2,Link to data source,
-metadata_fields:source_url_3,Link to data source,
-metadata_fields:source_url_4,Link to data source,
-metadata_fields:source_url_5,Link to data source,
-metadata_fields:source_url_6,Link to data source,
-metadata_fields:target,Target name,
-metadata_fields:target_id,Target number,
-metadata_fields:un_custodian_agency,UN custodian agency,
-metadata_fields:un_designated_tier,UN designated tier,
+search:found_in,found in,找到
+search:indicator_search,Indicator search,指标搜索
+search:keywords,Keywords,关键字
+search:no_results,No results,无搜索结果
+search:search,Search,搜索
+search:search_results_for,Search results for,搜索结果
 global_goals:1---short,No poverty,
 global_goals:10---short,Reduced inequalities,
 global_goals:11---short,Sustainable cities & communities,
@@ -176,3 +89,90 @@ global_goals:8---short,Decent jobs and economic growth,
 global_goals:9---short,"Industry, innovation and infrastructure",
 post:posts_by_category,Posts by Category,按分类发布的帖子
 post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
+metadata_fields:comments_limitations,Other information,其他资料
+metadata_fields:computation_calculations,Calculations,计算
+metadata_fields:computation_definitions,Definitions,定义
+metadata_fields:computation_units,Unit of measurement,计量单位
+metadata_fields:goal_meta_link,Link to UN metadata,连接到联合国元数据
+metadata_fields:indicator,Indicator number,指标数字
+metadata_fields:indicator_definition,Global indicator description,全球指标描述
+metadata_fields:indicator_name,Indicator name,指标名称
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),指标显示顺序（在目标页面内）
+metadata_fields:national_data_update_url,Data last updated,数据最后更新时间
+metadata_fields:national_geographical_coverage,Geographical coverage,地域覆盖范围
+metadata_fields:national_indicator_available,Indicator available,可用指标
+metadata_fields:national_indicator_description,Indicator description,指标描述
+metadata_fields:national_metadata_update_url,Metadata last updated,元数据最后更新时间
+metadata_fields:source_contact_1,Contact details,联系方式
+metadata_fields:source_contact_2,Contact details,联系方式
+metadata_fields:source_contact_3,Contact details,联系方式
+metadata_fields:source_contact_4,Contact details,联系方式
+metadata_fields:source_contact_5,Contact details,联系方式
+metadata_fields:source_contact_6,Contact details,联系方式
+metadata_fields:source_earliest_available_1,Earliest available data,最早可供使用数据
+metadata_fields:source_earliest_available_2,Earliest available data,最早可供使用数据
+metadata_fields:source_earliest_available_3,Earliest available data,最早可供使用数据
+metadata_fields:source_earliest_available_4,Earliest available data,最早可供使用数据
+metadata_fields:source_earliest_available_5,Earliest available data,最早可供使用数据
+metadata_fields:source_earliest_available_6,Earliest available data,最早可供使用数据
+metadata_fields:source_geographical_coverage_1,Geographical coverage,地域覆盖范围
+metadata_fields:source_geographical_coverage_2,Geographical coverage,地域覆盖范围
+metadata_fields:source_geographical_coverage_3,Geographical coverage,地域覆盖范围
+metadata_fields:source_geographical_coverage_4,Geographical coverage,地域覆盖范围
+metadata_fields:source_geographical_coverage_5,Geographical coverage,地域覆盖范围
+metadata_fields:source_geographical_coverage_6,Geographical coverage,地域覆盖范围
+metadata_fields:source_next_release_1,Next release,新发布
+metadata_fields:source_next_release_2,Next release,新发布
+metadata_fields:source_next_release_3,Next release,新发布
+metadata_fields:source_next_release_4,Next release,新发布
+metadata_fields:source_next_release_5,Next release,新发布
+metadata_fields:source_next_release_6,Next release,新发布
+metadata_fields:source_organisation_1,Organisation,机构
+metadata_fields:source_organisation_2,Organisation,机构
+metadata_fields:source_organisation_3,Organisation,机构
+metadata_fields:source_organisation_4,Organisation,机构
+metadata_fields:source_organisation_5,Organisation,机构
+metadata_fields:source_organisation_6,Organisation,机构
+metadata_fields:source_other_info_1,Other information,其他资料
+metadata_fields:source_other_info_2,Other information,其他资料
+metadata_fields:source_other_info_3,Other information,其他资料
+metadata_fields:source_other_info_4,Other information,其他资料
+metadata_fields:source_other_info_5,Other information,其他资料
+metadata_fields:source_other_info_6,Other information,其他资料
+metadata_fields:source_periodicity_1,Periodicity,周期性
+metadata_fields:source_periodicity_2,Periodicity,周期性
+metadata_fields:source_periodicity_3,Periodicity,周期性
+metadata_fields:source_periodicity_4,Periodicity,周期性
+metadata_fields:source_periodicity_5,Periodicity,周期性
+metadata_fields:source_periodicity_6,Periodicity,周期性
+metadata_fields:source_release_date_1,Release date,发布日期
+metadata_fields:source_release_date_2,Release date,发布日期
+metadata_fields:source_release_date_3,Release date,发布日期
+metadata_fields:source_release_date_4,Release date,发布日期
+metadata_fields:source_release_date_5,Release date,发布日期
+metadata_fields:source_release_date_6,Release date,发布日期
+metadata_fields:source_statistical_classification_1,Statistical classification,统计分类
+metadata_fields:source_statistical_classification_2,Statistical classification,统计分类
+metadata_fields:source_statistical_classification_3,Statistical classification,统计分类
+metadata_fields:source_statistical_classification_4,Statistical classification,统计分类
+metadata_fields:source_statistical_classification_5,Statistical classification,统计分类
+metadata_fields:source_statistical_classification_6,Statistical classification,统计分类
+metadata_fields:source_url_1,Link to data source,连接到数据源
+metadata_fields:source_url_2,Link to data source,连接到数据源
+metadata_fields:source_url_3,Link to data source,连接到数据源
+metadata_fields:source_url_4,Link to data source,连接到数据源
+metadata_fields:source_url_5,Link to data source,连接到数据源
+metadata_fields:source_url_6,Link to data source,连接到数据源
+metadata_fields:target,Target name,目标名称
+metadata_fields:target_id,Target number,目标数字
+metadata_fields:un_custodian_agency,UN custodian agency,联合国托管机构
+metadata_fields:un_designated_tier,UN designated tier,联合国指定层
+frontpage:heading,%name data for Sustainable Development Goal indicators,
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",
+status:exploring_data_sources,Exploring data sources,探索数据源
+status:not_applicable,Not applicable,不适用
+status:overall_reporting_status,Overall Reporting Status,整体上报状况
+status:reported_online,Reported online,已在线上上报
+status:reporting_status,Reporting Status,上报状况
+status:statistics_in_progress,Statistics in progress,统计在进行中
+status:status_by_goal,Status by goal,目标状况
