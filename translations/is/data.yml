@@ -4,8 +4,10 @@ Value: Gildi
 Age: Aldur
 Group: Hópur
 <18 years: <18 ára
-Female: Konur
-Male: Karlar
+Female: Kona
+Male: Karl
+Females: Konur
+Males: Karlar
 Gender: Kyn
 Education: Menntun
 Health: Heilbrigðismál
@@ -90,5 +92,3 @@ Primary homeless: Útigangsfólk
 Secondary homeless: Fólk í húsnæðishraki
 Sex: Kyn
 Living condition: Húsnæðisaðstæður
-Female: Konur
-Male: Karlar
