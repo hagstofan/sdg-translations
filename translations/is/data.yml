@@ -1,11 +1,12 @@
 Income/expenditure: Tekjur/útgjöld
 Income: Tekjur
 Expenditure: Útgjöld
-1st quantile: Fyrsti tekjufjórðungur
-2nd quantile: Annar tekjufjórðungur
-3rd quantile: Þriðji tekjufjórðungur
-4th quantile: Fjórði tekjufjórðjungur
+1st quartile: Fyrsti tekjufjórðungur
+2nd quartile: Annar tekjufjórðungur
+3rd quartile: Þriðji tekjufjórðungur
+4th quartile: Fjórði tekjufjórðjungur
 Total: Heild
+Income group: Tekjuhópur
 1st quantile: Fyrsti tekjufimmtungur
 2nd quantile: Annar tekjufimmtungur
 3rd quantile: Þriðji tekjufimmtungur
