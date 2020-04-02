@@ -1,4 +1,19 @@
 Waste type: Tegund Úrgangs
+Agriculture (01): Landbúnaður
+Wholesale (46): Heildsala
+Retail (47): Smásala
+Accommodation (55): Gistiþjónusta
+Food and beverage service (56): Veitingaþjónusta
+Education (P): Menntun
+Meat processing (10.1): Kjötvinnsla
+Processing of fruit and vegetables (10.3): Ávaxta- og grænmetisvinnsla
+Manufacture of oil and fat (10.4): Framleiðsla olíu og feiti
+Manufacture of bakery and farinaceous products (10.7): Framleiðsla bökunarvara
+Health institutions (86): Heilbrigðisstofnanir
+Nursing homes (87): Öldrunarheimili
+Manufacture of beverages (11): Framleiðsla drykkjavara
+Manufacture of other food products (10.8): Framleiðsla annara matvæla
+Manufacture of dairy products (10.5): Framleiðsla mjólkurvara
 Tonnes: Tonn
 Kg per person: Kg á íbúa
 Food and inedible waste: Matur og óætur úrgangur 
