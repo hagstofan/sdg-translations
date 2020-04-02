@@ -1,9 +1,11 @@
 Waste type: Tegund úrgangs
 Units type: Einingar
 Waste origin: Uppruni úrgangs
-Agriculture (01): Landbúnaður
-Wholesale (46): Heildsala
-Retail (47): Smásala
+Wholesale and retail (46 and 47): Heildsala og smásala (46 og 47)
+Agriculture (01): Landbúnaður (01)
+Wholesale (46): Heildsala (46)
+Retail (47): Smásala (47)
+Meat processing (03): Kjötvinnsla (03)
 Accommodation (55): Gistiþjónusta
 Food and beverage service (56): Veitingaþjónusta
 Education (P): Menntun
