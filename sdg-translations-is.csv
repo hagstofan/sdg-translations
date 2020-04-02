@@ -1,4 +1,37 @@
 ﻿key,en,is
+search:found_in,found in,fundið í
+search:indicator_search,Indicator search,Leit að mælikvarða
+search:keywords,Keywords,Lykilorð
+search:no_results,No results,Engar niðurstöður
+search:search,Search,Leit
+search:search_results_for,Search results for,Niðurstöður leitar að
+general:facebook,Facebook,Facebook
+general:goal,Goal,Markmið
+general:goals,Goals,Markmiðum
+general:home,Home,Heim
+general:indicator,Indicator,Mælikvarði
+general:indicators,Indicators,mælikvarðar
+general:loading,Loading search results,Hleður niðurstöðum leitar
+general:opens_new_window,opens in a new window,opnast í nýjum glugga
+general:sdg,Sustainable Development Goals,Heimsmarkmið
+general:target,Target,Undirmarkmið
+general:targets,Targets,Undirmarkmið
+general:twitter,Twitter,Twitter
+menu:about,About,Um tölfræði heimsmarkmiðanna
+menu:contact_us,Contact us,Hafðu samband
+menu:cookies,Cookies,Vafrakökur
+menu:faq,FAQ,Algengar spurningar
+menu:guidance,Guidance,Leiðbeiningar
+menu:menu,Menu,Valmynd
+menu:publications,Publications,Birtingar
+menu:reporting_status,Reporting Status,Staða birtingar
+status:exploring_data_sources,Exploring data sources,Verið að kanna gagnalindir
+status:not_applicable,Not applicable,Á ekki við
+status:overall_reporting_status,Overall Reporting Status,Heildarstaða birtingar
+status:reported_online,Reported online,Birt
+status:reporting_status,Reporting Status,Staða birtingar
+status:statistics_in_progress,Statistics in progress,Í vinnslu
+status:status_by_goal,Status by goal,Staða eftir markmiði
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Eigi síðar en árið 2030 hafi sárri fátækt verið útrýmt alls staðar. Miðað verði við að enginn hafi minna á milli handanna en sem nemur 1,25 bandaríkjadölum á dag til að framfleyta sér."
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Eigi síðar en árið 2030 búi a.m.k. helmingi færri karlar, konur og börn, óháð aldri, við fátækt eins og hún er skilgreind í hverju landi."
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Innleidd verði viðeigandi félagsleg kerfi í hverju landi öllum til handa, þ.m.t. lágmarksframfærsluviðmið, sem styðji frá og með árinu 2030 allverulega við fátæka og fólk í viðkvæmri stöðu."
@@ -168,21 +201,79 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Stuðlað verði að sjálfbærri uppbyggingu innviða í þróunarlöndum með sveigjanleika að viðmiði, auknum fjárhagsstuðningi og tæknilegum stuðningi við Afríkuríki, þróunarlönd sem eru skemmst á veg komin, landlukt þróunarlönd og þróunarlönd sem eru smáeyríki."
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Stutt verði við tækniþróun, rannsóknir og nýsköpun í þróunarlöndum, meðal annars með því að festa í sessi stefnumótandi umhverfi sem stuðlar til dæmis að fjölbreyttu atvinnulífi og virðisauka."
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Aðgengi að upplýsinga- og fjarskiptatækni verði aukið verulega og lagt kapp á að almenningur hafi aðgang að netinu á viðráðanlegu verði í þeim þróunarlöndum sem eru skemmst á veg komin.
-menu:about,About,Um tölfræði heimsmarkmiðanna
-menu:contact_us,Contact us,Hafðu samband
-menu:cookies,Cookies,Vafrakökur
-menu:faq,FAQ,Algengar spurningar
-menu:guidance,Guidance,Leiðbeiningar
-menu:menu,Menu,Valmynd
-menu:publications,Publications,Birtingar
-menu:reporting_status,Reporting Status,Staða birtingar
-status:exploring_data_sources,Exploring data sources,Verið að kanna gagnalindir
-status:not_applicable,Not applicable,Á ekki við
-status:overall_reporting_status,Overall Reporting Status,Heildarstaða birtingar
-status:reported_online,Reported online,Birt
-status:reporting_status,Reporting Status,Staða birtingar
-status:statistics_in_progress,Statistics in progress,Í vinnslu
-status:status_by_goal,Status by goal,Staða eftir markmiði
+indicator:chart,Chart,Graf
+indicator:clear_all,Clear all,Hreinsa allt
+indicator:clear_selections,Clear selections,Hreinsa val
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Það eru of mikil gögn til að sýna á grafi. Ekki er hægt að sýna öll gögn fyrr en völdum gögnum hefur verið fækkað
+indicator:download_chart,Download Chart CSV,Sækja graf CSV
+indicator:download_chart_image,Download Chart Image,Sækja graf
+indicator:download_chart_image_title,Download chart as image,Sækja graf sem mynd
+indicator:download_csv,Download CSV,Sækja CSV
+indicator:download_csv_title,Download as CSV,Sækja sem CSV
+indicator:download_headline,Download Headline CSV,Sækja gögn CSV
+indicator:download_headline_title,Download headline data as CSV,Sækja gögn sem CSV
+indicator:download_source,Download Source CSV,Sækja grunn CSV
+indicator:download_source_title,Download source data as CSV,Sækja grunngögn sem CSV
+indicator:download_table,Download Table CSV,Sækja töflu CSV
+indicator:edit,Edit,Breyta
+indicator:edit_data,Edit Data,Breyta gögnum
+indicator:edit_metadata,Edit Metadata,Breyta lýsigögnum
+indicator:footnote,Footnote,Neðanmálsgrein
+indicator:geographical_area,Geographical Area,Svæði
+indicator:global_metadata,Global Metadata,Alþjóðleg lýsigögn
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Þessi tafla sýnir lýsigögn fyrir heimsmarkmiðamælikvarða eins og þeir eru skilgreindir af tölfræðistofnun Sameinuðu Þjóðanna. <a href=""https://unstats.un.org/sdgs/metadata/""> Fullbúin alþjóðleg lýsigögn </a> eru fáanleg frá tölfræðistofnun Sameinuðu Þjóðanna"
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Smellið á skýringar til að fjarlægja einstakar línur úr grafinu.
+indicator:loading_map,Loading map,Hleð korti
+indicator:map,Map,Kort
+indicator:national_metadata,National Metadata,Innlend lýsigögn
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_name-specific metadata information.","Þessi tafla sýnir lýsigögn fyrir þann mælikvarða sem er fáanlegur úr íslenskum gögnum og er líkastur alþjóðlegum heimsmarkmiðamælikvarða Sameinuðu Þjóðanna. Vinsamlegast takið eftir að jafnvel þótt alþjóðlegur heimsmarkmiðamælikvarði Sameinuðu Þjóðanna sé aðgengilegur úr íslenskum gögnum, ber að hafa þessa töflu til hliðsjónar fyrir upplýsingar um innlenda aðferðarfræði og önnur íslensk lýsigögn"
+indicator:no_data_hint,No options available because of filters above,Engir valmöguleikar í boði vegna síunar
+indicator:select_all,Select all,Velja allt
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Veljið flokka úr valmyndinni að neðan til að sjá mismunandi sundurliðun gagna. Sumir verða ekki aðgengilegir fyrr en yfirflokkur hefur verið valinn.
+indicator:source,Source,Heimild
+indicator:sources,Sources,Heimildir
+indicator:sub_categories,Sub-categories,Undirflokkar
+indicator:table,Table,Tafla
+indicator:unit_of_measurement,Unit of Measurement,Eining
+indicator:units_type,Units type,Tegund einingar
+indicator:variable_hint,Available when '%field' is selected,Í boði þegar '%field' er valið
+indicator:view_indicator_list,View this goal's indicator list,Sjá mælikvarða þessa markmiðs
+global_goals:1---short,No poverty,Engin fátækt
+global_goals:1---title,End poverty in all its forms everywhere,Útrýma fátækt í allri sinni mynd alls staðar
+global_goals:10---short,Reduced inequalities,Aukinn jöfnuður
+global_goals:10---title,Reduce inequality within and among countries,Draga úr ójöfnuði innan og á milli landa
+global_goals:11---short,Sustainable cities & communities,Sjálfbærar borgir og samfélög
+global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Gera borgir og íbúðasvæði öllum mönnum auðnotuð, örugg, viðnámsþolin og sjálfbær"
+global_goals:12---short,Responsible consumption and production,Ábyrg neysla og framleiðsla
+global_goals:12---title,Ensure sustainable consumption and production patterns,Sjálfbær neyslu- og framleiðslumynstur verði tryggð
+global_goals:13---short,Climate action,Aðgerðir í loftslagsmálum
+global_goals:13---title,Take urgent action to combat climate change and its impacts,Grípa til bráðra aðgerða gegn loftslagsbreytingum og áhrifum þeirra
+global_goals:14---short,Life below water,Líf í vatni
+global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",Vernda og nýta hafið og auðlindir þess á sjálfbæran hátt í því skyni að stuðla að sjálfbærri þróun
+global_goals:15---short,Life on land,Líf á landi
+global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Vernda, endurheimta og stuðla að sjálfbærri nýtingu vistkerfa á landi, sjálfbærristjórnun skógarauðlindarinnar, berjast gegn eyðimerkurmyndun, stöðva jarðvegseyðingu og endurheimta landgæði og sporna við hnignun líffræðilegrar fjölbreytni"
+global_goals:16---short,Peace and justice - strong institutions,Friður og réttlæti
+global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Stuðla að friðsælum og sjálfbærum samfélögum fyrir alla menn, tryggja öllum jafnan aðgang að réttarkerfi og byggja upp skilvirkar og ábyrgar stofnanir fyrir alla menn á öllum sviðum"
+global_goals:17---short,Partnerships for the goals,Samvinna um markmiðin
+global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Blása lífi í alþjóðlegt samstarf um sjálfbæra þróun og grípa til aðgerða
+global_goals:2---short,Zero hunger,Ekkert hungur
+global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Útrýma hungri, tryggja fæðuöryggi og bætta næringu og stuðla að sjálfbærum landbúnaði"
+global_goals:3---short,Good health and well-being,Heilsa og vellíðan
+global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Stuðla að heilbrigðu líferni og vellíðan fyrir alla frá vöggu til grafar
+global_goals:4---short,Quality education,Menntun fyrir alla
+global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Tryggja jafnan aðgang allra að góðri menntun og stuðla að tækifærum allra til náms alla ævi
+global_goals:5---short,Gender equality,Jafnrétti kynjanna
+global_goals:5---title,Achieve gender equality and empower all women and girls,Jafnrétti kynjanna verði tryggt og völd allra kvenna og stúlkna efld
+global_goals:6---short,Clean water and sanitation,Hreint vatn og hreinlætisaðstaða
+global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,"Tryggja aðgengi að og sjálfbæra nýtingu, allra á hreinu vatni og salernisaðstöðu"
+global_goals:7---short,Affordable and clean energy,Sjálfbær orka
+global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all",Tryggja öllum aðgang að öruggri og sjálfbærri orku á viðráðanlegu verði
+global_goals:8---short,Decent jobs and economic growth,Góð atvinna og hagvöxtur
+global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Stuðla að viðvarandi sjálfbærum hagvexti og arðbærum og mannsæmandi atvinnutækifærum fyrir alla
+global_goals:9---short,"Industry, innovation and infrastructure",Nýsköpun og uppbygging
+global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Byggja upp viðnámsþolna innviði fyrir alla, stuðla að sjálfbærri iðnvæðingu og hlúa að nýsköpun"
+frontpage:heading,%name data for Sustainable Development Goal indicators,Tölfræði heimsmarkmiða Sameinuðu Þjóðanna um sjálfbæra þróun
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Veljið markmið, eða %before_link leitið, %after_link í mælikvörðum heimsmarkmiðanna."
 metadata_fields:comments_limitations,Other information,Aðrar upplýsingar
 metadata_fields:computation_calculations,Calculations,Útreikningar
 metadata_fields:computation_definitions,Definitions,Skilgreiningar
@@ -261,8 +352,6 @@ metadata_fields:target,Target name,Undirmarkmið
 metadata_fields:target_id,Target number,Númer undirmarkmiðs
 metadata_fields:un_custodian_agency,UN custodian agency,Vörslustofnun Sameinuðu Þjóðanna
 metadata_fields:un_designated_tier,UN designated tier,Aðferðarfræðiflokkun Sameinuðu Þjóðanna
-post:posts_by_category,Posts by Category,Færslur eftir flokkum
-post:view_all_in_category,View all posts in the %category_name category,Sjá allar færslur í %category_name
 header:alpha,Alpha,Alpha
 header:default_contrast,Default contrast,Sjálfgefin birtuskil
 header:disable_high_contrast,Disable high contrast,Afvelja skörp birtuskil
@@ -271,63 +360,8 @@ header:enable_high_contrast,Enable high contrast,Velja skörp birtuskil
 header:high_contrast,High contrast,Skörp birtuskil
 header:skip_link,Skip to main content,Aftur á aðalsíðu
 header:tag_line,17 Goals to Transform our World,17 markmið til að breyta heiminum.
-general:facebook,Facebook,Facebook
-general:goal,Goal,Markmið
-general:goals,Goals,Markmiðum
-general:home,Home,Heim
-general:indicator,Indicator,Mælikvarði
-general:indicators,Indicators,mælikvarðar
-general:loading,Loading search results,Hleður niðurstöðum leitar
-general:opens_new_window,opens in a new window,opnast í nýjum glugga
-general:sdg,Sustainable Development Goals,Heimsmarkmið
-general:target,Target,Undirmarkmið
-general:targets,Targets,Undirmarkmið
-general:twitter,Twitter,Twitter
-frontpage:heading,%name data for Sustainable Development Goal indicators,Tölfræði heimsmarkmiða Sameinuðu Þjóðanna um sjálfbæra þróun
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Veljið markmið, eða %before_link leitið, %after_link í mælikvörðum heimsmarkmiðanna."
-search:found_in,found in,fundið í
-search:indicator_search,Indicator search,Leit að mælikvarða
-search:keywords,Keywords,Lykilorð
-search:no_results,No results,Engar niðurstöður
-search:search,Search,Leit
-search:search_results_for,Search results for,Niðurstöður leitar að
-indicator:chart,Chart,Graf
-indicator:clear_all,Clear all,Hreinsa allt
-indicator:clear_selections,Clear selections,Hreinsa val
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Það eru of mikil gögn til að sýna á grafi. Ekki er hægt að sýna öll gögn fyrr en völdum gögnum hefur verið fækkað
-indicator:download_chart,Download Chart CSV,Sækja graf CSV
-indicator:download_chart_image,Download Chart Image,Sækja graf
-indicator:download_chart_image_title,Download chart as image,Sækja graf sem mynd
-indicator:download_csv,Download CSV,Sækja CSV
-indicator:download_csv_title,Download as CSV,Sækja sem CSV
-indicator:download_headline,Download Headline CSV,Sækja gögn CSV
-indicator:download_headline_title,Download headline data as CSV,Sækja gögn sem CSV
-indicator:download_source,Download Source CSV,Sækja grunn CSV
-indicator:download_source_title,Download source data as CSV,Sækja grunngögn sem CSV
-indicator:download_table,Download Table CSV,Sækja töflu CSV
-indicator:edit,Edit,Breyta
-indicator:edit_data,Edit Data,Breyta gögnum
-indicator:edit_metadata,Edit Metadata,Breyta lýsigögnum
-indicator:footnote,Footnote,Neðanmálsgrein
-indicator:geographical_area,Geographical Area,Svæði
-indicator:global_metadata,Global Metadata,Alþjóðleg lýsigögn
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Þessi tafla sýnir lýsigögn fyrir heimsmarkmiðamælikvarða eins og þeir eru skilgreindir af tölfræðistofnun Sameinuðu Þjóðanna. <a href=""https://unstats.un.org/sdgs/metadata/""> Fullbúin alþjóðleg lýsigögn </a> eru fáanleg frá tölfræðistofnun Sameinuðu Þjóðanna"
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Smellið á skýringar til að fjarlægja einstakar línur úr grafinu.
-indicator:loading_map,Loading map,Hleð korti
-indicator:map,Map,Kort
-indicator:national_metadata,National Metadata,Innlend lýsigögn
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_name-specific metadata information.","Þessi tafla sýnir lýsigögn fyrir þann mælikvarða sem er fáanlegur úr íslenskum gögnum og er líkastur alþjóðlegum heimsmarkmiðamælikvarða Sameinuðu Þjóðanna. Vinsamlegast takið eftir að jafnvel þótt alþjóðlegur heimsmarkmiðamælikvarði Sameinuðu Þjóðanna sé aðgengilegur úr íslenskum gögnum, ber að hafa þessa töflu til hliðsjónar fyrir upplýsingar um innlenda aðferðarfræði og önnur íslensk lýsigögn"
-indicator:no_data_hint,No options available because of filters above,Engir valmöguleikar í boði vegna síunar
-indicator:select_all,Select all,Velja allt
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Veljið flokka úr valmyndinni að neðan til að sjá mismunandi sundurliðun gagna. Sumir verða ekki aðgengilegir fyrr en yfirflokkur hefur verið valinn.
-indicator:source,Source,Heimild
-indicator:sources,Sources,Heimildir
-indicator:sub_categories,Sub-categories,Undirflokkar
-indicator:table,Table,Tafla
-indicator:unit_of_measurement,Unit of Measurement,Eining
-indicator:units_type,Units type,Tegund einingar
-indicator:variable_hint,Available when '%field' is selected,Í boði þegar '%field' er valið
-indicator:view_indicator_list,View this goal's indicator list,Sjá mælikvarða þessa markmiðs
+post:posts_by_category,Posts by Category,Færslur eftir flokkum
+post:view_all_in_category,View all posts in the %category_name category,Sjá allar færslur í %category_name
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Hlutfall íbúa undir alþjóðlegum fátæktarmörkum eftir kyni, aldri, atvinnustöðu og landfræðilegri staðsetningu (þéttbýli/dreifbýli)."
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Hlutfall íbúa undir innlendum fátæktarmörkum, eftir kyni og aldri"
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Hlutfall karla, kvenna og barna á öllum aldri, sem búa við fátækt í öllum sínum birtingarmyndum samkvæmt skilgreiningum í hverju landi."
@@ -573,37 +607,3 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,"Heildarfjárstuðningur opinberra aðila á alþjóðavísu (opinber þróunaraðstoð, að viðbættri annarri opinberri fjármögnun) til innviða."
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Hlutfall virðisauka meðal- og hátæknifyrirtækja af heildarvirðisauka.
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Hlutfall íbúa með aðgang að farsímaneti, eftir tækni."
-global_goals:1---short,No poverty,Engin fátækt
-global_goals:1---title,End poverty in all its forms everywhere,Útrýma fátækt í allri sinni mynd alls staðar
-global_goals:10---short,Reduced inequalities,Aukinn jöfnuður
-global_goals:10---title,Reduce inequality within and among countries,Draga úr ójöfnuði innan og á milli landa
-global_goals:11---short,Sustainable cities & communities,Sjálfbærar borgir og samfélög
-global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Gera borgir og íbúðasvæði öllum mönnum auðnotuð, örugg, viðnámsþolin og sjálfbær"
-global_goals:12---short,Responsible consumption and production,Ábyrg neysla og framleiðsla
-global_goals:12---title,Ensure sustainable consumption and production patterns,Sjálfbær neyslu- og framleiðslumynstur verði tryggð
-global_goals:13---short,Climate action,Aðgerðir í loftslagsmálum
-global_goals:13---title,Take urgent action to combat climate change and its impacts,Grípa til bráðra aðgerða gegn loftslagsbreytingum og áhrifum þeirra
-global_goals:14---short,Life below water,Líf í vatni
-global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",Vernda og nýta hafið og auðlindir þess á sjálfbæran hátt í því skyni að stuðla að sjálfbærri þróun
-global_goals:15---short,Life on land,Líf á landi
-global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Vernda, endurheimta og stuðla að sjálfbærri nýtingu vistkerfa á landi, sjálfbærristjórnun skógarauðlindarinnar, berjast gegn eyðimerkurmyndun, stöðva jarðvegseyðingu og endurheimta landgæði og sporna við hnignun líffræðilegrar fjölbreytni"
-global_goals:16---short,Peace and justice - strong institutions,Friður og réttlæti
-global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Stuðla að friðsælum og sjálfbærum samfélögum fyrir alla menn, tryggja öllum jafnan aðgang að réttarkerfi og byggja upp skilvirkar og ábyrgar stofnanir fyrir alla menn á öllum sviðum"
-global_goals:17---short,Partnerships for the goals,Samvinna um markmiðin
-global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Blása lífi í alþjóðlegt samstarf um sjálfbæra þróun og grípa til aðgerða
-global_goals:2---short,Zero hunger,Ekkert hungur
-global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Útrýma hungri, tryggja fæðuöryggi og bætta næringu og stuðla að sjálfbærum landbúnaði"
-global_goals:3---short,Good health and well-being,Heilsa og vellíðan
-global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Stuðla að heilbrigðu líferni og vellíðan fyrir alla frá vöggu til grafar
-global_goals:4---short,Quality education,Menntun fyrir alla
-global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Tryggja jafnan aðgang allra að góðri menntun og stuðla að tækifærum allra til náms alla ævi
-global_goals:5---short,Gender equality,Jafnrétti kynjanna
-global_goals:5---title,Achieve gender equality and empower all women and girls,Jafnrétti kynjanna verði tryggt og völd allra kvenna og stúlkna efld
-global_goals:6---short,Clean water and sanitation,Hreint vatn og hreinlætisaðstaða
-global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,"Tryggja aðgengi að og sjálfbæra nýtingu, allra á hreinu vatni og salernisaðstöðu"
-global_goals:7---short,Affordable and clean energy,Sjálfbær orka
-global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all",Tryggja öllum aðgang að öruggri og sjálfbærri orku á viðráðanlegu verði
-global_goals:8---short,Decent jobs and economic growth,Góð atvinna og hagvöxtur
-global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Stuðla að viðvarandi sjálfbærum hagvexti og arðbærum og mannsæmandi atvinnutækifærum fyrir alla
-global_goals:9---short,"Industry, innovation and infrastructure",Nýsköpun og uppbygging
-global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Byggja upp viðnámsþolna innviði fyrir alla, stuðla að sjálfbærri iðnvæðingu og hlúa að nýsköpun"
