@@ -1,4 +1,97 @@
 ﻿key,en,is
+post:posts_by_category,Posts by Category,Færslur eftir flokkum
+post:view_all_in_category,View all posts in the %category_name category,Sjá allar færslur í %category_name
+search:found_in,found in,fundið í
+search:indicator_search,Indicator search,Leit að mælikvarða
+search:keywords,Keywords,Lykilorð
+search:no_results,No results,Engar niðurstöður
+search:search,Search,Leit
+search:search_results_for,Search results for,Niðurstöður leitar að
+metadata_fields:comments_limitations,Other information,Aðrar upplýsingar
+metadata_fields:computation_calculations,Calculations,Útreikningar
+metadata_fields:computation_definitions,Definitions,Skilgreiningar
+metadata_fields:computation_units,Unit of measurement,Mælieining
+metadata_fields:goal_meta_link,Link to UN metadata,Hlekkur á lýsigögn Sameinuðu Þjóðanna
+metadata_fields:indicator,Indicator number,Númer mælikvarða
+metadata_fields:indicator_definition,Global indicator description,Lýsing á alþjóðlegum mælikvarða
+metadata_fields:indicator_name,Indicator name,Heiti mælikvarða
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Birtingarröð mælikvarða (Innan markmiðasíðu)
+metadata_fields:national_data_update_url,Data last updated,Gögn síðast uppfærð
+metadata_fields:national_geographical_coverage,Geographical coverage,Landfræðileg þekja
+metadata_fields:national_indicator_available,Indicator available,Birtur mælikvarði
+metadata_fields:national_indicator_description,Indicator description,Lýsing mælikvarða
+metadata_fields:national_metadata_update_url,Metadata last updated,Lýsigögn síðast uppfærð
+metadata_fields:source_contact_1,Contact details,Hafa samband
+metadata_fields:source_contact_2,Contact details,Hafa samband
+metadata_fields:source_contact_3,Contact details,Hafa samband
+metadata_fields:source_contact_4,Contact details,Hafa samband
+metadata_fields:source_contact_5,Contact details,Hafa samband
+metadata_fields:source_contact_6,Contact details,Hafa samband
+metadata_fields:source_earliest_available_1,Earliest available data,Fyrstu gögn
+metadata_fields:source_earliest_available_2,Earliest available data,Fyrstu gögn
+metadata_fields:source_earliest_available_3,Earliest available data,Fyrstu gögn
+metadata_fields:source_earliest_available_4,Earliest available data,Fyrstu gögn
+metadata_fields:source_earliest_available_5,Earliest available data,Fyrstu gögn
+metadata_fields:source_earliest_available_6,Earliest available data,Fyrstu gögn
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Landfræðileg þekja
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Landfræðileg þekja
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Landfræðileg þekja
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Landfræðileg þekja
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Landfræðileg þekja
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Landfræðileg þekja
+metadata_fields:source_next_release_1,Next release,Næsta birting
+metadata_fields:source_next_release_2,Next release,Næsta birting
+metadata_fields:source_next_release_3,Next release,Næsta birting
+metadata_fields:source_next_release_4,Next release,Næsta birting
+metadata_fields:source_next_release_5,Next release,Næsta birting
+metadata_fields:source_next_release_6,Next release,Næsta birting
+metadata_fields:source_organisation_1,Organisation,Stofnun
+metadata_fields:source_organisation_2,Organisation,Stofnun
+metadata_fields:source_organisation_3,Organisation,Stofnun
+metadata_fields:source_organisation_4,Organisation,Stofnun
+metadata_fields:source_organisation_5,Organisation,Stofnun
+metadata_fields:source_organisation_6,Organisation,Stofnun
+metadata_fields:source_other_info_1,Other information,Aðrar upplýsingar
+metadata_fields:source_other_info_2,Other information,Aðrar upplýsingar
+metadata_fields:source_other_info_3,Other information,Aðrar upplýsingar
+metadata_fields:source_other_info_4,Other information,Aðrar upplýsingar
+metadata_fields:source_other_info_5,Other information,Aðrar upplýsingar
+metadata_fields:source_other_info_6,Other information,Aðrar upplýsingar
+metadata_fields:source_periodicity_1,Periodicity,Tíðni gagna
+metadata_fields:source_periodicity_2,Periodicity,Tíðni gagna
+metadata_fields:source_periodicity_3,Periodicity,Tíðni gagna
+metadata_fields:source_periodicity_4,Periodicity,Tíðni gagna
+metadata_fields:source_periodicity_5,Periodicity,Tíðni gagna
+metadata_fields:source_periodicity_6,Periodicity,Tíðni gagna
+metadata_fields:source_release_date_1,Release date,Síðast uppfært
+metadata_fields:source_release_date_2,Release date,Síðast uppfært
+metadata_fields:source_release_date_3,Release date,Síðast uppfært
+metadata_fields:source_release_date_4,Release date,Síðast uppfært
+metadata_fields:source_release_date_5,Release date,Síðast uppfært
+metadata_fields:source_release_date_6,Release date,Síðast uppfært
+metadata_fields:source_statistical_classification_1,Statistical classification,Tölfræðileg flokkun
+metadata_fields:source_statistical_classification_2,Statistical classification,Tölfræðileg flokkun
+metadata_fields:source_statistical_classification_3,Statistical classification,Tölfræðileg flokkun
+metadata_fields:source_statistical_classification_4,Statistical classification,Tölfræðileg flokkun
+metadata_fields:source_statistical_classification_5,Statistical classification,Tölfræðileg flokkun
+metadata_fields:source_statistical_classification_6,Statistical classification,Tölfræðileg flokkun
+metadata_fields:source_url_1,Link to data source,Hlekkur á gagnalind
+metadata_fields:source_url_2,Link to data source,Hlekkur á gagnalind
+metadata_fields:source_url_3,Link to data source,Hlekkur á gagnalind
+metadata_fields:source_url_4,Link to data source,Hlekkur á gagnalind
+metadata_fields:source_url_5,Link to data source,Hlekkur á gagnalind
+metadata_fields:source_url_6,Link to data source,Hlekkur á gagnalind
+metadata_fields:target,Target name,Undirmarkmið
+metadata_fields:target_id,Target number,Númer undirmarkmiðs
+metadata_fields:un_custodian_agency,UN custodian agency,Vörslustofnun Sameinuðu Þjóðanna
+metadata_fields:un_designated_tier,UN designated tier,Aðferðarfræðiflokkun Sameinuðu Þjóðanna
+status:exploring_data_sources,Exploring data sources,Verið að kanna gagnalindir
+status:not_applicable,Not applicable,Á ekki við
+status:overall_reporting_status,Overall Reporting Status,Heildarstaða birtingar
+status:reported_online,Reported online,Birt
+status:reporting_status,Reporting Status,Staða birtingar
+status:statistics_in_progress,Statistics in progress,Í vinnslu
+status:status_by_goal,Status by goal,Staða eftir markmiði
 global_goals:1---short,No poverty,Engin fátækt
 global_goals:1---title,End poverty in all its forms everywhere,Útrýma fátækt í allri sinni mynd alls staðar
 global_goals:10---short,Reduced inequalities,Aukinn jöfnuður
@@ -202,6 +295,16 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Stuðlað verði að sjálfbærri uppbyggingu innviða í þróunarlöndum með sveigjanleika að viðmiði, auknum fjárhagsstuðningi og tæknilegum stuðningi við Afríkuríki, þróunarlönd sem eru skemmst á veg komin, landlukt þróunarlönd og þróunarlönd sem eru smáeyríki."
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Stutt verði við tækniþróun, rannsóknir og nýsköpun í þróunarlöndum, meðal annars með því að festa í sessi stefnumótandi umhverfi sem stuðlar til dæmis að fjölbreyttu atvinnulífi og virðisauka."
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Aðgengi að upplýsinga- og fjarskiptatækni verði aukið verulega og lagt kapp á að almenningur hafi aðgang að netinu á viðráðanlegu verði í þeim þróunarlöndum sem eru skemmst á veg komin.
+frontpage:heading,%name data for Sustainable Development Goal indicators,Tölfræði heimsmarkmiða Sameinuðu Þjóðanna um sjálfbæra þróun
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Veljið markmið, eða %before_link leitið, %after_link í mælikvörðum heimsmarkmiðanna."
+menu:about,About,Um tölfræði heimsmarkmiðanna
+menu:contact_us,Contact us,Hafðu samband
+menu:cookies,Cookies,Vafrakökur
+menu:faq,FAQ,Algengar spurningar
+menu:guidance,Guidance,Leiðbeiningar
+menu:menu,Menu,Valmynd
+menu:publications,Publications,Birtingar
+menu:reporting_status,Reporting Status,Staða birtingar
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Hlutfall íbúa undir alþjóðlegum fátæktarmörkum eftir kyni, aldri, atvinnustöðu og landfræðilegri staðsetningu (þéttbýli/dreifbýli)."
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Hlutfall íbúa undir innlendum fátæktarmörkum, eftir kyni og aldri"
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Hlutfall karla, kvenna og barna á öllum aldri, sem búa við fátækt í öllum sínum birtingarmyndum samkvæmt skilgreiningum í hverju landi."
@@ -345,7 +448,7 @@ global_indicators:2-3-1-title,Volume of production per labour unit by classes of
 global_indicators:2-3-2-title,"Average income of small-scale food producers, by sex and indigenous status","Meðaltekjur lítilla matvælaframleiðenda, eftir kyni og hvort um frumbyggja er að ræða."
 global_indicators:2-4-1-title,Proportion of agricultural area under productive and sustainable agriculture,Hlutfall landbúnaðarsvæðis til framleiðslu og sjálfbærs landbúnaðar.
 global_indicators:2-5-1-title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Fjöldi erfðaauðlinda plantna og dýra á sviði matvæla og landbúnaðar sem komið hefur verið tryggilega fyrir í varðveisluaðstöðu til meðallangs og langs tíma.
-global_indicators:2-5-2-title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction","Hlutfall staðbundinna tegunda sem metnar eru í hættu, ekki í hættu eða á óvissustigi m.t.t. útrýmingar."
+global_indicators:2-5-2-title,Proportion of local breeds classified as being at risk of extinction,"Hlutfall staðbundinna tegunda sem metnar eru í hættu, ekki í hættu eða á óvissustigi m.t.t. útrýmingar."
 global_indicators:2-a-1-title,The agriculture orientation index for government expenditures,Leitnistuðull fyrir landbúnað í útgjöldum hins opinbera.
 global_indicators:2-a-2-title,Total official flows (official development assistance plus other official flows) to the agriculture sector,Heildartilfærslur hins opinbera (opinber þróunaraðstoð að viðbættum öðrum opinberum tilfærslum) til landbúnaðargeirans.
 global_indicators:2-b-1-title,Agricultural export subsidies,Útflutningsstyrkir vegna landbúnaðarafurða.
@@ -449,93 +552,6 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,"Heildarfjárstuðningur opinberra aðila á alþjóðavísu (opinber þróunaraðstoð, að viðbættri annarri opinberri fjármögnun) til innviða."
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Hlutfall virðisauka meðal- og hátæknifyrirtækja af heildarvirðisauka.
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Hlutfall íbúa með aðgang að farsímaneti, eftir tækni."
-metadata_fields:comments_limitations,Other information,Aðrar upplýsingar
-metadata_fields:computation_calculations,Calculations,Útreikningar
-metadata_fields:computation_definitions,Definitions,Skilgreiningar
-metadata_fields:computation_units,Unit of measurement,Mælieining
-metadata_fields:goal_meta_link,Link to UN metadata,Hlekkur á lýsigögn Sameinuðu Þjóðanna
-metadata_fields:indicator,Indicator number,Númer mælikvarða
-metadata_fields:indicator_definition,Global indicator description,Lýsing á alþjóðlegum mælikvarða
-metadata_fields:indicator_name,Indicator name,Heiti mælikvarða
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Birtingarröð mælikvarða (Innan markmiðasíðu)
-metadata_fields:national_data_update_url,Data last updated,Gögn síðast uppfærð
-metadata_fields:national_geographical_coverage,Geographical coverage,Landfræðileg þekja
-metadata_fields:national_indicator_available,Indicator available,Birtur mælikvarði
-metadata_fields:national_indicator_description,Indicator description,Lýsing mælikvarða
-metadata_fields:national_metadata_update_url,Metadata last updated,Lýsigögn síðast uppfærð
-metadata_fields:source_contact_1,Contact details,Hafa samband
-metadata_fields:source_contact_2,Contact details,Hafa samband
-metadata_fields:source_contact_3,Contact details,Hafa samband
-metadata_fields:source_contact_4,Contact details,Hafa samband
-metadata_fields:source_contact_5,Contact details,Hafa samband
-metadata_fields:source_contact_6,Contact details,Hafa samband
-metadata_fields:source_earliest_available_1,Earliest available data,Fyrstu gögn
-metadata_fields:source_earliest_available_2,Earliest available data,Fyrstu gögn
-metadata_fields:source_earliest_available_3,Earliest available data,Fyrstu gögn
-metadata_fields:source_earliest_available_4,Earliest available data,Fyrstu gögn
-metadata_fields:source_earliest_available_5,Earliest available data,Fyrstu gögn
-metadata_fields:source_earliest_available_6,Earliest available data,Fyrstu gögn
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Landfræðileg þekja
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Landfræðileg þekja
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Landfræðileg þekja
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Landfræðileg þekja
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Landfræðileg þekja
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Landfræðileg þekja
-metadata_fields:source_next_release_1,Next release,Næsta birting
-metadata_fields:source_next_release_2,Next release,Næsta birting
-metadata_fields:source_next_release_3,Next release,Næsta birting
-metadata_fields:source_next_release_4,Next release,Næsta birting
-metadata_fields:source_next_release_5,Next release,Næsta birting
-metadata_fields:source_next_release_6,Next release,Næsta birting
-metadata_fields:source_organisation_1,Organisation,Stofnun
-metadata_fields:source_organisation_2,Organisation,Stofnun
-metadata_fields:source_organisation_3,Organisation,Stofnun
-metadata_fields:source_organisation_4,Organisation,Stofnun
-metadata_fields:source_organisation_5,Organisation,Stofnun
-metadata_fields:source_organisation_6,Organisation,Stofnun
-metadata_fields:source_other_info_1,Other information,Aðrar upplýsingar
-metadata_fields:source_other_info_2,Other information,Aðrar upplýsingar
-metadata_fields:source_other_info_3,Other information,Aðrar upplýsingar
-metadata_fields:source_other_info_4,Other information,Aðrar upplýsingar
-metadata_fields:source_other_info_5,Other information,Aðrar upplýsingar
-metadata_fields:source_other_info_6,Other information,Aðrar upplýsingar
-metadata_fields:source_periodicity_1,Periodicity,Tíðni gagna
-metadata_fields:source_periodicity_2,Periodicity,Tíðni gagna
-metadata_fields:source_periodicity_3,Periodicity,Tíðni gagna
-metadata_fields:source_periodicity_4,Periodicity,Tíðni gagna
-metadata_fields:source_periodicity_5,Periodicity,Tíðni gagna
-metadata_fields:source_periodicity_6,Periodicity,Tíðni gagna
-metadata_fields:source_release_date_1,Release date,Síðast uppfært
-metadata_fields:source_release_date_2,Release date,Síðast uppfært
-metadata_fields:source_release_date_3,Release date,Síðast uppfært
-metadata_fields:source_release_date_4,Release date,Síðast uppfært
-metadata_fields:source_release_date_5,Release date,Síðast uppfært
-metadata_fields:source_release_date_6,Release date,Síðast uppfært
-metadata_fields:source_statistical_classification_1,Statistical classification,Tölfræðileg flokkun
-metadata_fields:source_statistical_classification_2,Statistical classification,Tölfræðileg flokkun
-metadata_fields:source_statistical_classification_3,Statistical classification,Tölfræðileg flokkun
-metadata_fields:source_statistical_classification_4,Statistical classification,Tölfræðileg flokkun
-metadata_fields:source_statistical_classification_5,Statistical classification,Tölfræðileg flokkun
-metadata_fields:source_statistical_classification_6,Statistical classification,Tölfræðileg flokkun
-metadata_fields:source_url_1,Link to data source,Hlekkur á gagnalind
-metadata_fields:source_url_2,Link to data source,Hlekkur á gagnalind
-metadata_fields:source_url_3,Link to data source,Hlekkur á gagnalind
-metadata_fields:source_url_4,Link to data source,Hlekkur á gagnalind
-metadata_fields:source_url_5,Link to data source,Hlekkur á gagnalind
-metadata_fields:source_url_6,Link to data source,Hlekkur á gagnalind
-metadata_fields:target,Target name,Undirmarkmið
-metadata_fields:target_id,Target number,Númer undirmarkmiðs
-metadata_fields:un_custodian_agency,UN custodian agency,Vörslustofnun Sameinuðu Þjóðanna
-metadata_fields:un_designated_tier,UN designated tier,Aðferðarfræðiflokkun Sameinuðu Þjóðanna
-post:posts_by_category,Posts by Category,Færslur eftir flokkum
-post:view_all_in_category,View all posts in the %category_name category,Sjá allar færslur í %category_name
-status:exploring_data_sources,Exploring data sources,Verið að kanna gagnalindir
-status:not_applicable,Not applicable,Á ekki við
-status:overall_reporting_status,Overall Reporting Status,Heildarstaða birtingar
-status:reported_online,Reported online,Birt
-status:reporting_status,Reporting Status,Staða birtingar
-status:statistics_in_progress,Statistics in progress,Í vinnslu
-status:status_by_goal,Status by goal,Staða eftir markmiði
 header:alpha,Alpha,Alpha
 header:default_contrast,Default contrast,Sjálfgefin birtuskil
 header:disable_high_contrast,Disable high contrast,Afvelja skörp birtuskil
@@ -544,26 +560,6 @@ header:enable_high_contrast,Enable high contrast,Velja skörp birtuskil
 header:high_contrast,High contrast,Skörp birtuskil
 header:skip_link,Skip to main content,Aftur á aðalsíðu
 header:tag_line,17 Goals to Transform our World,17 markmið til að breyta heiminum.
-search:found_in,found in,fundið í
-search:indicator_search,Indicator search,Leit að mælikvarða
-search:keywords,Keywords,Lykilorð
-search:no_results,No results,Engar niðurstöður
-search:search,Search,Leit
-search:search_results_for,Search results for,Niðurstöður leitar að
-general:facebook,Facebook,Facebook
-general:goal,Goal,Markmið
-general:goals,Goals,Markmiðum
-general:home,Home,Heim
-general:indicator,Indicator,Mælikvarði
-general:indicators,Indicators,mælikvarðar
-general:loading,Loading search results,Hleður niðurstöðum leitar
-general:opens_new_window,opens in a new window,opnast í nýjum glugga
-general:sdg,Sustainable Development Goals,Heimsmarkmið
-general:target,Target,Undirmarkmið
-general:targets,Targets,Undirmarkmið
-general:twitter,Twitter,Twitter
-frontpage:heading,%name data for Sustainable Development Goal indicators,Tölfræði heimsmarkmiða Sameinuðu Þjóðanna um sjálfbæra þróun
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Veljið markmið, eða %before_link leitið, %after_link í mælikvörðum heimsmarkmiðanna."
 indicator:chart,Chart,Graf
 indicator:clear_all,Clear all,Hreinsa allt
 indicator:clear_selections,Clear selections,Hreinsa val
@@ -601,11 +597,15 @@ indicator:unit_of_measurement,Unit of Measurement,Eining
 indicator:units_type,Units type,Tegund einingar
 indicator:variable_hint,Available when '%field' is selected,Í boði þegar '%field' er valið
 indicator:view_indicator_list,View this goal's indicator list,Sjá mælikvarða þessa markmiðs
-menu:about,About,Um tölfræði heimsmarkmiðanna
-menu:contact_us,Contact us,Hafðu samband
-menu:cookies,Cookies,Vafrakökur
-menu:faq,FAQ,Algengar spurningar
-menu:guidance,Guidance,Leiðbeiningar
-menu:menu,Menu,Valmynd
-menu:publications,Publications,Birtingar
-menu:reporting_status,Reporting Status,Staða birtingar
+general:facebook,Facebook,Facebook
+general:goal,Goal,Markmið
+general:goals,Goals,Markmiðum
+general:home,Home,Heim
+general:indicator,Indicator,Mælikvarði
+general:indicators,Indicators,mælikvarðar
+general:loading,Loading search results,Hleður niðurstöðum leitar
+general:opens_new_window,opens in a new window,opnast í nýjum glugga
+general:sdg,Sustainable Development Goals,Heimsmarkmið
+general:target,Target,Undirmarkmið
+general:targets,Targets,Undirmarkmið
+general:twitter,Twitter,Twitter
